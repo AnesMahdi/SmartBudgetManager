@@ -1,6 +1,3 @@
-# SmartBudjetManager
-A project for managing Budjet
-
 # README — SMARTBUDGET MANAGER
 
 **Prepared by Mahdi Anes | Group: [03]**
